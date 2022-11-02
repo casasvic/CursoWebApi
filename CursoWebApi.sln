@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoWebApi", "CursoWebApi\CursoWebApi.csproj", "{AA90DFA2-0C64-4DCF-B0BA-37E750176927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{FF1DA3C4-5F9B-4242-B08A-91C6FF163227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA90DFA2-0C64-4DCF-B0BA-37E750176927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA90DFA2-0C64-4DCF-B0BA-37E750176927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA90DFA2-0C64-4DCF-B0BA-37E750176927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA90DFA2-0C64-4DCF-B0BA-37E750176927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1DA3C4-5F9B-4242-B08A-91C6FF163227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1DA3C4-5F9B-4242-B08A-91C6FF163227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1DA3C4-5F9B-4242-B08A-91C6FF163227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1DA3C4-5F9B-4242-B08A-91C6FF163227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC59A3D5-4718-4480-B498-A54F9421786A}
+	EndGlobalSection
+EndGlobal
